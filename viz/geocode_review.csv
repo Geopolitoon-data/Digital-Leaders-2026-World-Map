@@ -1,0 +1,109 @@
+﻿institution,country,lat,lon,issue,osm_result
+American University of Beirut,Lebanon,33.9000264,35.4823838,WRONG COUNTRY,"الجامعة الأمريكية في بيروت, Rue Ibrahim Abed El Aal, الحمرا, الحمراء, رأس بيروت, بيروت, محافظة بيروت, 1103, لبنان"
+BI Norwegian Business School,Norway,,,NOT RESOLVED,
+Bar-Ilan University,Israel,32.0693292,34.8433434,WRONG COUNTRY,"אוניברסיטת בר אילן, רחבת קרן היסוד, רמת אילן, גבעת שמואל, נפת פתח תקווה, מחוז המרכז, 5530002, ישראל"
+Beihang University,China,39.9809427,116.3409787,WRONG COUNTRY,"北京航空航天大学(学院路校区), 37, 学院路, 花园路街道, 海淀区, 北京市, 100083, 中国"
+Ben-Gurion University of the Negev,Israel,31.2631254,34.8022385,WRONG COUNTRY,"אוניברסיטת בן גוריון בנגב, פרופסור חיים חנני, רובע החדשנות באר שבע, שכונה ד, באר שבע, נפת באר שבע, מחוז הדרום, 8452566, ישראל"
+"Birla Institute of Technology and Science, Pilani",India,,,NOT RESOLVED,
+Bocconi University (incl. SDA Bocconi Milano),Italy,45.4499044,9.1892641,WRONG COUNTRY,"Università Bocconi, Piazza Angelo Sraffa, Vigentina, Municipio 5, Milano, Rodano, Milano, Lombardia, 20136, Italia"
+Bogaziçi University,Turkey,41.0832734,29.0505009,WRONG COUNTRY,"Boğaziçi Üniversitesi Güney Yerleşkesi, Arifipaşa Sokağı, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye"
+California Polytechnic State University,United States of America,35.3074623,-120.6646483,FAR FROM COUNTRY (3271 km),"California Polytechnic State University, 1, Grand Avenue, San Luis Obispo County, California, 93407, United States"
+California State University - East Bay,United States of America,37.6555236,-122.0558772,FAR FROM COUNTRY (3307 km),"California State University - East Bay, 25800, Carlos Bee Boulevard, Hayward, Alameda County, California, 94542, United States"
+Caltech,United States of America,34.1370138,-118.1252883,FAR FROM COUNTRY (3102 km),"California Institute of Technology, Moore Walk, Pasadena Council District 7, Pasadena, Los Angeles County, California, 91125, United States"
+CentraleSupélec - Paris Saclay University,France,,,NOT RESOLVED,
+Chaitanya Bharathi Institute Of Technology,India,,,NOT RESOLVED,
+China Europe International Business School (CEIBS),China,,,NOT RESOLVED,
+Copenhagen Business School,Denmark,55.677873,12.5216136,WRONG COUNTRY,"Copenhagen Business School (CBS), Porcelænshaven, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark"
+ESAN Graduate School Of Business (ESAN University),Peru,,,NOT RESOLVED,
+ESPM Escola Superior de Propaganda e Marketing,Brazil,,,NOT RESOLVED,
+ETH Zurich,Switzerland,47.413218,8.5374914,WRONG COUNTRY,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra"
+Ecole Centrale Lyon - Lyon University,France,,,NOT RESOLVED,
+Ecole Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,France,,,NOT RESOLVED,
+Ecole Polytechnique - Institut Polytechique de Paris,France,,,NOT RESOLVED,
+FIA Business School,Brazil,,,NOT RESOLVED,
+FIAP,Brazil,-23.5743927,-46.6235475,WRONG COUNTRY,"FIAP, 1264, Avenida Lins de Vasconcelos, Cambuci, São Paulo, Região Sudeste, 01543-010, Brasil"
+Frankfurt School of Finance & Management,Germany,50.1326646,8.6802221,WRONG COUNTRY,"Frankfurt School of Finance & Management, 32-34, Adickesallee, Nordend West, Innenstadt 3, Frankfurt am Main, Hessen, 60322, Deutschland"
+Free University of Berlin,Germany,,,NOT RESOLVED,
+Fudan University,China,31.3011748,121.4974703,WRONG COUNTRY,"复旦大学, 220, 邯郸路, 五角场, 五角场街道, 杨浦区, 上海市, 200433, 中国"
+Fundação Getulio Vargas,Brazil,-23.5599049,-46.6534588,WRONG COUNTRY,"Fundação Getulio Vargas, 474, Rua Itapeva, Bixiga, Bela Vista, São Paulo, Região Sudeste, 01332-000, Brasil"
+Harbin Institute of Technology,China,45.741589,126.6255626,WRONG COUNTRY,"哈尔滨工业大学, 92, 西大直街, 曲线街道, 南岗区, 哈尔滨市, 香坊区, 黑龙江省, 150000, 中国"
+Hebrew University of Jerusalem,Israel,31.7918555,35.244723,WRONG COUNTRY,"האוניברסיטה העברית בירושלים, ננסי רייגן פלאזה, הר הצופים, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9711769, ישראל"
+Heidelberg University,Germany,49.4186003,8.6692402,WRONG COUNTRY,"Universität Heidelberg, Fischergasse, Altstadt, Heidelberg, Baden-Württemberg, 69117, Deutschland"
+Huazhong University of Science and Technology,China,30.5202172,114.4118463,WRONG COUNTRY,"华中科技大学, 1037号, 珞喻路, 光谷社区, 关东街道, 东湖新技术开发区, 洪山区, 武汉市, 湖北省, 430074, 中国"
+Humboldt University of Berlin,Germany,52.5183402,13.3929202,WRONG COUNTRY,"Humboldt-Universität zu Berlin, 6, Unter den Linden, Friedrichswerder, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland"
+IDC Herzliya,Israel,32.1762529,34.8370911,WRONG COUNTRY,"אוניברסיטת רייכמן, שדרות מנחם בגין, נחלת עדה, הרצליה, נפת תל אביב, מחוז תל אביב, 4648567, ישראל"
+IE University (incl. IE Business School),Spain,40.9529322,-4.1186861,WRONG COUNTRY,"IE Universidad, Calle Cardenal Zúñiga, Sexmo de Segovia, San Lorenzo, Comunidad de Ciudad y Tierra de Segovia, Segovia, Castilla y León, 40003, España"
+IMD Business School,Switzerland,,,NOT RESOLVED,
+IPADE Business School (Universidad Panamericana),Mexico,,,NOT RESOLVED,
+Instituto Tecnológico Autonómo de México,Mexico,19.345143,-99.1998346,WRONG COUNTRY,"Instituto Tecnológico Autónomo de México, 1, Calle Río Hondo, San Ángel, Ciudad de México, Álvaro Obregón, Ciudad de México, 01080, México"
+KTH Royal Institute of Technology,Sweden,59.2016758,17.6203201,WRONG COUNTRY,"KTH - Royal Institute of Technology (Södertälje), 12, Kvarnbergagatan, Tälje, Södertälje, Södertälje kommun, Stockholms län, 151 36, Sverige"
+KU Leuven,Belgium,50.8057129,3.2915374,WRONG COUNTRY,"KU Leuven Kulak, Etienne Sabbelaan, Hoog Kortrijk, Kortrijk, West-Vlaanderen, Vlaanderen, 8500, België / Belgique / Belgien"
+Karlsruhe Institute of Technology KIT,Germany,,,NOT RESOLVED,
+Koç University,Turkey,41.2060623,29.0738014,WRONG COUNTRY,"Koç Üniversitesi, Koç Meydanı, Rumelifeneri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34450, Türkiye"
+Kyoto University,Japan,35.0270467,135.7814382,WRONG COUNTRY,"京都大学, 志賀越道, 北白川西町, 吉田上大路町, 左京区, 京都市, 京都府, 606-8501, 日本"
+LMU Munich,Germany,48.1521649,11.581535,WRONG COUNTRY,"Institut für Statistik der LMU, 33, Ludwigstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland"
+Lund University,Sweden,55.7126504,13.2107587,WRONG COUNTRY,"Lunds Tekniska Högskola, Box 118, Tycho Brahes väg, Norra universitetsområdet, Norr, Lund, Lunds kommun, Skåne län, 221 00, Sverige"
+National Technical University of Ukraine 'Kyiv Polytechnic Institute',Ukraine,,,NOT RESOLVED,
+Oregon State University,United States of America,44.563056,-123.2839234,FAR FROM COUNTRY (3264 km),"Oregon State University, 1500, Southwest Jefferson Way, Corvallis, Benton County, Oregon, 97331, United States"
+Peking University,China,40.1750746,116.1593872,WRONG COUNTRY,"北京大学（新燕园校区）, 西进大道, 马池口镇, 昌平区, 北京市, 102205, 中国"
+Politehnica University of Bucharest,Romania,44.4393317,26.0505729,WRONG COUNTRY,"Universitatea Politehnica din București, 313, Splaiul Independenței, Grozăveşti, Sector 6, București, 060042, România"
+Polytechnic University of Catalonia,Spain,,,NOT RESOLVED,
+Polytechnic University of Milan,Italy,,,NOT RESOLVED,
+Pontificia Universidad Católica del Perú (incl. CENTRUM),Peru,-12.0691658,-77.0799348,WRONG COUNTRY,"Pontificia Universidad Católica del Perú, 1801, Avenida Universitaria, Pando Etapa 3, Lima, Lima Metropolitana, Lima, 15088, Perú"
+RWTH Aachen University,Germany,50.7791732,6.0689207,WRONG COUNTRY,"RWTH Aachen, Matthiashofstraße, Burtscheid, Aachen-Mitte, Aachen, Städteregion Aachen, Nordrhein-Westfalen, 52064, Deutschland"
+Ramon Llul University (incl. ESADE),Spain,,,NOT RESOLVED,
+San Diego State University,United States of America,32.7761529,-117.0733037,FAR FROM COUNTRY (3073 km),"San Diego State University, 1, Campanile Mall, Montezuma Mesa, Mid-City, Del Cerro, San Diego, San Diego County, California, 92182, United States"
+San Francisco State University,United States of America,37.7245167,-122.4799957,FAR FROM COUNTRY (3341 km),"San Francisco State University, 1600, Holloway Avenue, San Francisco, California, 94132, United States"
+Santa Clara University,United States of America,37.3486243,-121.936544,FAR FROM COUNTRY (3307 km),"Santa Clara University, 500, El Camino Real, Santa Clara, Santa Clara County, California, 95053, United States"
+Shanghai Jiao Tong University,China,31.2008911,121.4283949,WRONG COUNTRY,"上海交通大学（徐汇校区）, 1954, 华山路, 天平路街道, 徐汇区, 上海市, 200030, 中国"
+Simon Fraser University,Canada,49.2767096,-122.917803,FAR FROM COUNTRY (3220 km),"Simon Fraser University, 8888, Tower Road, UniverCity, Burnaby, Metro Vancouver Regional District, British Columbia, V5A 1S6, Canada"
+Stanford University (incl. Graduate School of Business),United States of America,37.4313138,-122.1693654,FAR FROM COUNTRY (3324 km),"Stanford University, 450, Jane Stanford Way, Stanford, Santa Clara County, California, 94305, United States"
+TalTech – Tallinn University of Technology,Estonia,,,NOT RESOLVED,
+Technical University Darmstadt,Germany,,,NOT RESOLVED,
+Technical University of Berlin,Germany,,,NOT RESOLVED,
+Technical University of Munich,Germany,48.2654976,11.6692249,WRONG COUNTRY,"Technische Universität München, Wiesenstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland"
+Technion - Israel Institute of Technology,Israel,32.7768128,35.0225446,WRONG COUNTRY,"הטכניון - מכון טכנולוגי לישראל, דוד רוז, קרית הטכניון, רובע רמות נווה שאנן, חיפה, נפת חיפה, מחוז חיפה, 3200003, ישראל"
+Tecnológico de Monterrey (incl. EGADE Business School),Mexico,20.6770044,-105.2204317,WRONG COUNTRY,"Tecnologico de Monterrey, Puerto Vallarta, Región Costa Norte, Jalisco, 48300, México"
+Tel Aviv University,Israel,32.1123577,34.8050129,WRONG COUNTRY,"אוניברסיטת תל אביב, גייגר, תל־אביב–יפו, נוה אביבים וסביבתה, תל־אביב–יפו, נפת תל אביב, מחוז תל אביב, 6949405, ישראל"
+The Open University of Israel,Israel,32.1348476,34.8313372,WRONG COUNTRY,"האוניברסיטה הפתוחה, 5, הכפר הירוק, רמת השרון, נפת תל אביב, מחוז תל אביב, 6962342, ישראל"
+The University of Adelaide,Australia,,,NOT RESOLVED,
+The University of Texas at Austin (incl. McCombs School of Business),United States of America,,,NOT RESOLVED,
+The University of Tokyo,Japan,35.9019845,139.9362283,WRONG COUNTRY,"東京大学 柏キャンパス, 東大東裏通り, 中十余二, 柏市, 千葉県, 277-8583, 日本"
+The University of Western Australia,Australia,-35.0274825,117.8871021,FAR FROM COUNTRY (3034 km),"The University of Western Australia, 35, Stirling Terrace, Albany, Western Australia, 6330, Australia"
+The University of Western Ontario,Canada,,,NOT RESOLVED,
+Tokyo Institute of Technology,Japan,35.6045553,139.6827849,WRONG COUNTRY,"東京科学大学 大岡山キャンパス, 轟橋, 大岡山二丁目, 大岡山, 目黒区, 東京都, 152-0034, 日本"
+Tokyo University Science,Japan,35.7015151,139.7642375,WRONG COUNTRY,"東京科学大学 湯島キャンパス, 外堀通り, 湯島一丁目, 湯島, 文京区, 東京都, 113-0034, 日本"
+Tongji University,China,31.2847393,121.4969491,WRONG COUNTRY,"同济大学, 1239, 四平路, 鞍山, 四平路街道, 杨浦区, 上海市, 200092, 中国"
+Tsinghua University,China,40.0022905,116.320963,WRONG COUNTRY,"清华大学, 30, 双清路, 东升镇, 海淀区, 北京市, 100084, 中国"
+Universidad Anáhuac,Mexico,19.2770424,-99.5718585,WRONG COUNTRY,"Universidad Anáhuac, Avenida Solidaridad Las Torres, San Salvador Tizatlalli, Metepec, Estado de México, 52172, México"
+Universidad Carlos III de Madrid,Spain,40.3150937,-3.7248801,WRONG COUNTRY,"Universidad Carlos III de Madrid, Calle del Doctor Sánchez Morate, Las Margaritas, Getafe, Comunidad de Madrid, 28903, España"
+Universidad Complutense de Madrid,Spain,40.4314742,-3.7900439,WRONG COUNTRY,"Universidad Complutense de Madrid (Campus de Somosaguas), Avenida de Húmera, Húmera, Pozuelo de Alarcón, Comunidad de Madrid, 28023, España"
+"Universidad Iberoamericana, Ciudad de México",Mexico,19.3697398,-99.2637907,WRONG COUNTRY,"Universidad Iberoamericana, Prolongación Vasco de Quiroga, Santa Fe Cuajimalpa, Memetla, Ciudad de México, Cuajimalpa de Morelos, Ciudad de México, 01210, México"
+Universidad Nacional Autónoma de México,Mexico,19.321597,-99.1849259,WRONG COUNTRY,"Universidad Nacional Autónoma de México, Avenida Pedro Henríquez Ureña, Fraccionamiento Copilco Universidad, Copilco, Ciudad de México, Coyoacán, Ciudad Universitaria, Ciudad de México, 04360, México"
+Universidad Politécnica de Madrid (incl. Escuela de Organización Industrial),Spain,40.5473558,-3.6918341,WRONG COUNTRY,"Escuela Politécnica Superior, Calle Faraday, El Goloso, Fuencarral-El Pardo, Madrid, Comunidad de Madrid, 28049, España"
+Universidad del Pacifico,Peru,-12.0838826,-77.0483187,WRONG COUNTRY,"Universidad del Pacífico, 2020, Avenida General Salaverry, Risso, Lince, Jesús María, Lima, Lima Metropolitana, Lima, 15072, Perú"
+Universidad del Pacífico (incl. Business School),Peru,-12.0838826,-77.0483187,WRONG COUNTRY,"Universidad del Pacífico, 2020, Avenida General Salaverry, Jesús María, Lima, Lima Metropolitana, Lima, 15072, Perú"
+Universidade de São Paulo (incl. MBA USP/Esalq),Brazil,-23.5652201,-46.712583,WRONG COUNTRY,"Universidade de São Paulo (Portaria 1), Avenida Afrânio Peixoto, Caxingui, Butantã, São Paulo, Região Sudeste, 05507-000, Brasil"
+Universitat Autònoma de Barcelona,Spain,41.5015527,2.1062607,WRONG COUNTRY,"Universitat Autònoma de Barcelona, Plaça Civica, Bellaterra, Cerdanyola del Vallès, Vallès Occidental, Barcelona, Catalunya, 08193, España"
+University of Barcelona,Spain,41.3868595,2.1634784,WRONG COUNTRY,"Universitat de Barcelona, Carrer de Balmes, l'Antiga Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España"
+University of British Columbia,Canada,49.2578915,-123.2429755,FAR FROM COUNTRY (3243 km),"University of British Columbia, Electoral Area A, Metro Vancouver Regional District, British Columbia, Canada"
+"University of California, Berkeley (incl. Haas School of Business)",United States of America,37.8754996,-122.2390685,FAR FROM COUNTRY (3316 km),"University of California, Berkeley, Addison Street, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States"
+"University of California, Davis",United States of America,38.5337904,-121.7907544,FAR FROM COUNTRY (3258 km),"University of California, Davis, 1, Levee Road, Davis, Yolo County, California, 95616, United States"
+"University of California, Irvine",United States of America,33.6491782,-117.8391158,FAR FROM COUNTRY (3098 km),"United States Post Office, 4255, Campus Drive, University Town Center, Irvine, Orange County, California, 92612, United States"
+"University of California, Los Angeles (incl. Anderson School of Mgt.)",United States of America,34.0708777,-118.4468503,FAR FROM COUNTRY (3132 km),"University of California, Los Angeles, Bellagio Way, Bel Air, Westwood, Los Angeles, Los Angeles County, California, 90095, United States"
+"University of California, San Diego",United States of America,32.8792438,-117.2311247,FAR FROM COUNTRY (3081 km),"University of California, San Diego, 9500, Gilman Drive, University City, San Diego, San Diego County, California, 92093, United States"
+"University of California, Santa Barbara",United States of America,34.4146025,-119.84581,FAR FROM COUNTRY (3237 km),"University of California, Santa Barbara, 552, Estero Road, 67 Block, Isla Vista, Santa Barbara County, California, 93106, United States"
+University of Copenhagen,Denmark,55.6801502,12.572327,WRONG COUNTRY,"Københavns Universitet, Nørregade, Nørrevold, Indre By, København, Københavns Kommune, Region Hovedstaden, 1167, Danmark"
+University of Granada,Spain,37.1827211,-3.6056278,WRONG COUNTRY,"Tienda Universidad de Granada, Calle Doctor Severo Ochoa, Pajaritos, Centro - Sagrario, Beiro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18071, España"
+University of Illinois at Urbana-Champaign,United States of America,,,NOT RESOLVED,
+University of Navarra (incl. IESE Business School),Spain,,,NOT RESOLVED,
+University of Pretoria/Universiteit van Pretoria,South Africa,,,NOT RESOLVED,
+University of Southern California,United States of America,34.021869,-118.2858579,FAR FROM COUNTRY (3121 km),"University of Southern California, West Jefferson Boulevard, University Park, Exposition Park, Los Angeles, Los Angeles County, California, 90089, United States"
+University of St. Gallen,Switzerland,47.4300025,9.3722184,WRONG COUNTRY,"Universität St.Gallen, 50, Dufourstrasse, St. Jakob, St. Gallen, Wahlkreis St. Gallen, St. Gallen, 9000, Schweiz/Suisse/Svizzera/Svizra"
+University of Tartu,Estonia,58.381014,26.7195598,WRONG COUNTRY,"Tartu Ülikool, 18, Ülikooli, Vanalinn, Kesklinn, Tartu linn, Tartu maakond, 50090, Eesti"
+University of Victoria,Canada,48.4620599,-123.3114198,FAR FROM COUNTRY (3264 km),"University of Victoria, Finnerty Road, Cadboro Bay, Saanich, Capital Regional District, British Columbia, V8N 4A6, Canada"
+University of Warsaw,Poland,52.2216394,21.007377,WRONG COUNTRY,"Politechnika Warszawska, 1, Plac Politechniki, Koszyki, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-661, Polska"
+University of Washington,United States of America,47.6554303,-122.3001692,FAR FROM COUNTRY (3177 km),"University of Washington, 1410, Northeast Campus Parkway, West Campus, University District, Seattle, King County, Washington, 98195, United States"
+Université Paris-Dauphine - PSL University,France,,,NOT RESOLVED,
+Vienna University of Technology,Austria,48.1985397,16.3698617,WRONG COUNTRY,"TU Wien, Hauptgebäude, 13, Karlsplatz, Freihausviertel, Wieden, Wien, 1040, Österreich"
+École Polytechnique Fédérale de Lausanne,Switzerland,46.5186594,6.5665615,WRONG COUNTRY,"École Polytechnique Fédérale de Lausanne, Chemin des Machines, Quartier Sorge, Ecublens, District de l'Ouest lausannois, Vaud, 1015, Schweiz/Suisse/Svizzera/Svizra"
